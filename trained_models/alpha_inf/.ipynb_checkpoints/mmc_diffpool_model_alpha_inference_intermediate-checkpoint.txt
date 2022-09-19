@@ -1,0 +1,9 @@
+Epoch: 000, Train Loss: 0.1100
+Epoch: 000, Train Loss: 0.0828
+Epoch: 000, Train Loss: 0.0788
+Epoch: 000, Train Loss: 0.0764
+Epoch: 000, Train Loss: 0.0762
+Epoch: 000, Train Loss: 0.0743
+Epoch: 000, Train Loss: 0.0738
+Epoch: 000, Train Loss: 0.0735
+Epoch: 000, Train Loss: 0.0719
